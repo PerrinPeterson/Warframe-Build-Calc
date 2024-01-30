@@ -1,4 +1,4 @@
-from AmprexTestingGrounds import Mod
+from testingGrounds import Mod
 MODS = [
         #-----------Empties-----------#
         Mod("EmptyMod", {}, 0, "EmptyMod", canBeDuplicated=True, tags=[]),
